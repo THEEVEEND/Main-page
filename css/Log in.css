@@ -6,7 +6,7 @@
 body{
     height: 100vh;
     font-family:'Poppins', sans-serif;
-    background-image: url(/img/1149439.jpg);
+    background-image: url(../IMG/1149439.jpg);
     background-size: cover;
     display: flex;
     justify-content: right;

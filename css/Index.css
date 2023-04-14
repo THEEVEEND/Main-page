@@ -79,7 +79,7 @@ a{
 
 .description-container {
     height: 771px;
-    background-image: url(/img/fondo.png);
+    background-image: url(../IMG/fondo.png);
 }
 
 .info-description {
@@ -151,7 +151,7 @@ a{
 /* Este es el css del carrusel */
 .carrusel-container {
     height: 877px;
-    background-image: url(/img/background\ image.png);
+    background-image: url(../IMG/background\ image.png);
 
 }
 
@@ -368,7 +368,7 @@ a{
 /* Este es el css de los datos de los diseñadores */
 .card {
     position: relative;
-    background: url(/img/fondocartas.png);
+    background: url(../IMG/fondocartas.png);
     width: 449px;
     height: 619px;
 }
